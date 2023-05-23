@@ -1,4 +1,4 @@
-import { createRoot } from '../node_modules/react-dom/client';
+import { createRoot } from '../node_modules/react-dom/client.js';
 
 function NavigationBar() {
   // TODO: Actually implement a navigation bar
